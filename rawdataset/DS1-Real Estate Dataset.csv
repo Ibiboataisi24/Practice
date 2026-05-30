@@ -1,0 +1,109 @@
+Property ID,Owner,Address,Type,Price,Date Listed,Email
+,Chris Black ,654 Maple Ln|Miami| FL, Condo,343949,  12-30-2018,jane@email.com
+PROP213,Eve Yellow ,321 Pine Rd |Houston| TX, Townhouse,781523,11 - 15 - 2019,grace@email.com
+PROP204,Henry Orange,789 Oak Ave|Chicago | IL, Condo,291031,01-02-2023,bob@email.com
+PROP213,Chris Black ,789 Oak Ave|Chicago | IL, Villa,696128,07-12-2021,henry@email.com
+PROP200,Grace Red ,789 Oak Ave|Chicago | IL, Studio,439349, 10/25/2020 ,chris@email.com
+PROP202,Jane Smith  ,789 Oak Ave|Chicago | IL,Apartment ,847075,07-12-2021,
+PROP203,  Daniel Green,123 Main St|New York|NY, Townhouse,405876, 10/25/2020 ,chris@email.com
+PROP201,Frank Blue,789 Oak Ave|Chicago | IL, Townhouse,862764, 3/5/2022,
+PROP205,  Daniel Green,456 Elm St |Los Angeles| CA, House,588671,01-02-2023,
+PROP219,Grace Red ,654 Maple Ln|Miami| FL, Condo,876135,  12-30-2018,
+PROP201,  Daniel Green,654 Maple Ln|Miami| FL, Townhouse,326510,07-12-2021,eve@email.com
+PROP205,Chris Black ,654 Maple Ln|Miami| FL,Apartment ,210341,  12-30-2018,bob@email.com
+PROP204,Frank Blue,456 Elm St |Los Angeles| CA, Townhouse,636195, 3/5/2022,henry@email.com
+PROP206,  Daniel Green,654 Maple Ln|Miami| FL, Studio,205189,07-12-2021,henry@email.com
+PROP218,  Daniel Green,123 Main St|New York|NY, Condo,756404, 3/5/2022,
+PROP207,Jane Smith  ,789 Oak Ave|Chicago | IL, Condo,589361,07-12-2021,alice@email.com
+PROP202,Chris Black ,789 Oak Ave|Chicago | IL,Apartment ,773568,07-12-2021,alice@email.com
+PROP215,  John Doe,123 Main St|New York|NY, Studio,140696,01-02-2023,grace@email.com
+PROP208,Eve Yellow ,321 Pine Rd |Houston| TX, Townhouse,469675,01-02-2023,daniel@email.com
+PROP205,Henry Orange,654 Maple Ln|Miami| FL, Townhouse,757625, 10/25/2020 ,henry@email.com
+PROP218,Henry Orange,789 Oak Ave|Chicago | IL, Townhouse,809802,07-12-2021,bob@email.com
+PROP215,Grace Red ,789 Oak Ave|Chicago | IL,Apartment ,736175,  12-30-2018,
+PROP200,Eve Yellow ,123 Main St|New York|NY, Studio,591020, 10/25/2020 ,henry@email.com
+PROP207,Grace Red ,789 Oak Ave|Chicago | IL,Apartment ,210159,01-02-2023,chris@email.com
+PROP204,Bob White,321 Pine Rd |Houston| TX,Apartment ,793108, 3/5/2022,
+PROP218,  John Doe,123 Main St|New York|NY, Townhouse,481959, 10/25/2020 ,jane@email.com
+PROP200,Frank Blue,321 Pine Rd |Houston| TX, Studio,659598,07-12-2021,
+PROP211,Eve Yellow ,123 Main St|New York|NY, Studio,599598, 10/25/2020 ,bob@email.com
+PROP215,Frank Blue,123 Main St|New York|NY, Villa,486045,11 - 15 - 2019,eve@email.com
+PROP209,Grace Red ,654 Maple Ln|Miami| FL, Studio,745818, 10/25/2020 ,jane@email.com
+PROP205,  John Doe,456 Elm St |Los Angeles| CA, Studio,417509,01-02-2023,henry@email.com
+PROP213,  Daniel Green,123 Main St|New York|NY, House,351819,01-02-2023,henry@email.com
+PROP219,Bob White,321 Pine Rd |Houston| TX,Apartment ,174576,01-02-2023,
+PROP219,Grace Red ,456 Elm St |Los Angeles| CA, Townhouse,839512,11 - 15 - 2019,daniel@email.com
+PROP202,  Daniel Green,789 Oak Ave|Chicago | IL, Townhouse,771961,  12-30-2018,daniel@email.com
+PROP212,  John Doe,321 Pine Rd |Houston| TX, House,867444,01-02-2023,daniel@email.com
+PROP204,  Daniel Green,456 Elm St |Los Angeles| CA, Townhouse,524342,  12-30-2018,grace@email.com
+PROP209,Frank Blue,789 Oak Ave|Chicago | IL, Studio,400720,  12-30-2018,alice@email.com
+PROP204,Grace Red ,654 Maple Ln|Miami| FL, Townhouse,639591, 3/5/2022,bob@email.com
+PROP215,Grace Red ,123 Main St|New York|NY, Townhouse,258753, 3/5/2022,john@email.com
+,Grace Red ,321 Pine Rd |Houston| TX, Studio,245817, 3/5/2022,frank@email.com
+PROP203,Bob White,654 Maple Ln|Miami| FL,Apartment ,651239,07-12-2021,
+PROP207,  John Doe,789 Oak Ave|Chicago | IL, House,182268,07-12-2021,grace@email.com
+PROP213,Henry Orange,321 Pine Rd |Houston| TX, Condo,565013,01-02-2023,henry@email.com
+PROP207,Jane Smith  ,654 Maple Ln|Miami| FL, Townhouse,323821,07-12-2021,bob@email.com
+PROP220,Grace Red ,654 Maple Ln|Miami| FL, Studio,553469,  12-30-2018,
+PROP215,Jane Smith  ,654 Maple Ln|Miami| FL, Townhouse,877741, 3/5/2022,
+PROP209, Alice Brown,789 Oak Ave|Chicago | IL, Studio,470856,  12-30-2018,chris@email.com
+PROP206,Chris Black ,654 Maple Ln|Miami| FL,Apartment ,264993, 10/25/2020 ,henry@email.com
+PROP215,Chris Black ,123 Main St|New York|NY,Apartment ,683836,  12-30-2018,bob@email.com
+PROP212,  Daniel Green,321 Pine Rd |Houston| TX,Apartment ,425624,  12-30-2018,bob@email.com
+PROP202,  John Doe,789 Oak Ave|Chicago | IL, Condo,664219,  12-30-2018,alice@email.com
+PROP200,Henry Orange,654 Maple Ln|Miami| FL, Villa,154612, 3/5/2022,
+PROP201,  Daniel Green,321 Pine Rd |Houston| TX, Studio,144686, 3/5/2022,
+PROP215,Frank Blue,789 Oak Ave|Chicago | IL, Townhouse,530326,11 - 15 - 2019,daniel@email.com
+PROP200,Bob White,456 Elm St |Los Angeles| CA, Villa,868838,01-02-2023,bob@email.com
+PROP206, Alice Brown,123 Main St|New York|NY, Townhouse,442839,07-12-2021,henry@email.com
+PROP215,Eve Yellow ,321 Pine Rd |Houston| TX, Studio,897953,01-02-2023,chris@email.com
+PROP205,Jane Smith  ,123 Main St|New York|NY,Apartment ,816330, 3/5/2022,grace@email.com
+PROP200,Frank Blue,789 Oak Ave|Chicago | IL,Apartment ,895309, 10/25/2020 ,
+PROP216,Frank Blue,456 Elm St |Los Angeles| CA, House,144996,07-12-2021,alice@email.com
+PROP206,Chris Black ,789 Oak Ave|Chicago | IL, Studio,377725,07-12-2021,henry@email.com
+PROP210,  John Doe,654 Maple Ln|Miami| FL, House,276779,  12-30-2018,john@email.com
+PROP204,  Daniel Green,654 Maple Ln|Miami| FL, House,309323,01-02-2023,alice@email.com
+PROP216,Bob White,321 Pine Rd |Houston| TX, Townhouse,662148,01-02-2023,
+PROP202,Frank Blue,123 Main St|New York|NY, House,310461, 10/25/2020 ,eve@email.com
+PROP212,  Daniel Green,123 Main St|New York|NY, Studio,611237, 3/5/2022,bob@email.com
+PROP212,Grace Red ,789 Oak Ave|Chicago | IL, House,239263, 10/25/2020 ,grace@email.com
+PROP202,Jane Smith  ,789 Oak Ave|Chicago | IL, Townhouse,188905,11 - 15 - 2019,chris@email.com
+PROP220,Frank Blue,456 Elm St |Los Angeles| CA, Townhouse,171972,  12-30-2018,
+PROP218,Henry Orange,321 Pine Rd |Houston| TX, Villa,535337,07-12-2021,henry@email.com
+PROP210,  Daniel Green,789 Oak Ave|Chicago | IL, Villa,760556,11 - 15 - 2019,alice@email.com
+PROP200,Jane Smith  ,321 Pine Rd |Houston| TX, Villa,612204, 3/5/2022,john@email.com
+PROP211,Jane Smith  ,321 Pine Rd |Houston| TX,Apartment ,237399, 10/25/2020 ,eve@email.com
+PROP210,  Daniel Green,789 Oak Ave|Chicago | IL, Studio,234186,01-02-2023,alice@email.com
+PROP204,Jane Smith  ,123 Main St|New York|NY, Villa,485935,11 - 15 - 2019,bob@email.com
+PROP207,Jane Smith  ,654 Maple Ln|Miami| FL,Apartment ,371009,11 - 15 - 2019,alice@email.com
+PROP217,Jane Smith  ,321 Pine Rd |Houston| TX, Townhouse,817350,11 - 15 - 2019,chris@email.com
+PROP213,Grace Red ,123 Main St|New York|NY, Studio,461156,01-02-2023,
+PROP214,Bob White,789 Oak Ave|Chicago | IL, Condo,561505, 10/25/2020 ,daniel@email.com
+PROP220,Chris Black ,789 Oak Ave|Chicago | IL, Villa,692279, 10/25/2020 ,
+PROP214, Alice Brown,456 Elm St |Los Angeles| CA, Condo,570010,11 - 15 - 2019,grace@email.com
+PROP216,Grace Red ,789 Oak Ave|Chicago | IL, Condo,244070,01-02-2023,alice@email.com
+PROP207,Chris Black ,456 Elm St |Los Angeles| CA, Villa,503268,07-12-2021,henry@email.com
+PROP218, Alice Brown,789 Oak Ave|Chicago | IL, House,627075, 3/5/2022,henry@email.com
+PROP204,Chris Black ,321 Pine Rd |Houston| TX, Villa,189541,  12-30-2018,bob@email.com
+PROP212,Henry Orange,654 Maple Ln|Miami| FL,Apartment ,602552,11 - 15 - 2019,chris@email.com
+PROP215, Alice Brown,654 Maple Ln|Miami| FL, Villa,413105,11 - 15 - 2019,
+PROP216,Chris Black ,789 Oak Ave|Chicago | IL, Condo,108207,  12-30-2018,john@email.com
+PROP202,Bob White,654 Maple Ln|Miami| FL,Apartment ,720039,01-02-2023,
+PROP206,Frank Blue,123 Main St|New York|NY, Studio,628549,  12-30-2018,bob@email.com
+PROP210,  John Doe,654 Maple Ln|Miami| FL, Townhouse,566499, 10/25/2020 ,
+PROP215,Grace Red ,123 Main St|New York|NY, Studio,887583,01-02-2023,bob@email.com
+PROP213,Chris Black ,321 Pine Rd |Houston| TX, Studio,173107,01-02-2023,jane@email.com
+PROP207,Frank Blue,456 Elm St |Los Angeles| CA, Villa,193687, 3/5/2022,chris@email.com
+PROP210,  John Doe,123 Main St|New York|NY, House,662475,  12-30-2018,
+PROP200,  Daniel Green,789 Oak Ave|Chicago | IL, Townhouse,747283,11 - 15 - 2019,frank@email.com
+PROP200, Alice Brown,123 Main St|New York|NY, Studio,845775,01-02-2023,john@email.com
+PROP200,Jane Smith  ,321 Pine Rd |Houston| TX, Villa,798639, 10/25/2020 ,grace@email.com
+PROP203,  Daniel Green,456 Elm St |Los Angeles| CA, House,642092,01-02-2023,chris@email.com
+PROP205,  Daniel Green,789 Oak Ave|Chicago | IL, Townhouse,669817,11 - 15 - 2019,alice@email.com
+PROP204,Henry Orange,123 Main St|New York|NY,Apartment ,653798,11 - 15 - 2019,grace@email.com
+PROP220,Chris Black ,789 Oak Ave|Chicago | IL, Studio,612547,01-02-2023,chris@email.com
+PROP205,  John Doe,321 Pine Rd |Houston| TX, Townhouse,370730,01-02-2023,jane@email.com
+PROP202,Henry Orange,456 Elm St |Los Angeles| CA, House,314965,07-12-2021,jane@email.com
+PROP206,Grace Red ,321 Pine Rd |Houston| TX, Townhouse,356560,07-12-2021,jane@email.com
+PROP205,Frank Blue,123 Main St|New York|NY, House,358861, 3/5/2022,eve@email.com
+PROP200,Chris Black ,123 Main St|New York|NY, Townhouse,525143,07-12-2021,grace@email.com
